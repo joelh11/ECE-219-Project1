@@ -14,6 +14,8 @@ nltk
 jupyter
 ipykernel
 
+datasets
+
 # Optional
 torch
 transformers
