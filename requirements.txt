@@ -3,22 +3,17 @@
 numpy
 pandas
 scipy
-
 matplotlib
 seaborn
-
 scikit-learn
-
 nltk
-
 jupyter
 ipykernel
-
 datasets
-
-# Optional
+evaluate
+time
 torch
 transformers
 sentence-transformers
 
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 # for GPU use on windows
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 # for GPU use on windows
