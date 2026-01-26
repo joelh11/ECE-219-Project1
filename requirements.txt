@@ -16,5 +16,6 @@ time
 torch
 transformers
 sentence-transformers
+umap-learn
 
 # torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 # for GPU use on windows

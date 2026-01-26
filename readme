@@ -1,0 +1,28 @@
+# ECE 219 Project 1
+# Akhil Manthina
+# Joel Hernandez
+# Profita Keo
+
+#### 1. Install Dependencies
+Run the following command to install all required packages:
+```bash
+pip install -r requirements.txt
+```
+
+#### 2. Download Required Data Files
+The project requires the GloVe word embeddings file:
+- glove.6B.300d.txt
+- Project1-ClassificationDataset.csv
+
+#### 3. Run the Notebook
+Open a terminal in the project directory and run:
+```bash
+jupyter notebook project1_solution.ipynb
+```
+
+Or if using JupyterLab:
+```bash
+jupyter lab project1_solution.ipynb
+```
+
+# or you can run it on Google Colab
